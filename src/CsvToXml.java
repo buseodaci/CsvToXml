@@ -17,8 +17,8 @@ import java.util.StringTokenizer;
 public class CsvToXml {
 
     // add input and output file path
-    final String INPUT_FILE = "C:\\Users\\buse\\Desktop\\CsvToXml2\\src\\input.csv";
-    final String OUTPUT_FILE = "C:\\Users\\buse\\Desktop\\CsvToXml2\\src\\output.xml";
+    final String INPUT_FILE = "";
+    final String OUTPUT_FILE = "";
     final String FIRST_ELEMENT = "information";
     protected DocumentBuilderFactory domFactory = null;
     protected DocumentBuilder domBuilder = null;
