@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<information>
+    <info>
+        <firstHeaderFirstColumn>A</firstHeaderFirstColumn>
+        <firstHeaderSecondColumn>B</firstHeaderSecondColumn>
+        <firstHeaderThirdColumn>202201-202206</firstHeaderThirdColumn>
+        <firstHeaderFourthColumn>20220612</firstHeaderFourthColumn>
+    </info>
+    <data>
+        <transaction secondHeaderFirstColumn="0028">
+            <transactionInfo>
+                <secondHeaderSecondColumn>1234567890</secondHeaderSecondColumn>
+                <date>
+                    <secondHeaderThirdColumn>20220611</secondHeaderThirdColumn>
+                </date>
+            </transactionInfo>
+        </transaction>
+        <transaction secondHeaderFirstColumn="0029">
+            <transactionInfo>
+                <secondHeaderSecondColumn>1234567895</secondHeaderSecondColumn>
+                <date>
+                    <secondHeaderThirdColumn>20220612</secondHeaderThirdColumn>
+                </date>
+            </transactionInfo>
+        </transaction>
+        <transaction secondHeaderFirstColumn="0030">
+            <transactionInfo>
+                <secondHeaderSecondColumn>1234567897</secondHeaderSecondColumn>
+                <date>
+                    <secondHeaderThirdColumn>20220613</secondHeaderThirdColumn>
+                </date>
+            </transactionInfo>
+        </transaction>
+    </data>
+</information>
